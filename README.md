@@ -9,7 +9,7 @@ https://github.com/PGCSEDS-IIITH/compose-iris contains code which demonstrates d
 
 ## Running Instructions
 - Create a fork of the repo using the `fork` button.
-- Clone your fork using `git clone https://www.github.com/<your-username>/compose-iris.git`
+- Clone your fork using `git clone https://github.com/Sravya-vadyala/compose-iris.git
 - Build the images using `docker-compose build`
 - Spin up the containers using `docker-compose up`
 
